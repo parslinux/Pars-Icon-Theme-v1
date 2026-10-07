@@ -1,21 +1,21 @@
-# 🐆 Pars Icon Theme v1
+# 🐆 Pars Icon Theme
 
-Official icon theme for Pars Linux.
+Minimal folder icon theme for Pars Linux.
 
-Pars Icon Theme v1 is a clean, modern and minimal icon collection designed for GNOME and XFCE desktop environments. The theme follows the visual identity of Pars Linux using geometric shapes, dark navy tones and signature Pars blue accents.
+Pars Icon Theme is a lightweight icon collection designed for the Pars Linux ecosystem. The project focuses on clean, geometric and consistent folder icons for GNOME and XFCE desktop environments.
 
 ## Features
 
-- Modern geometric design language
+- Simple and minimal design
+- SVG based scalable icons
 - GNOME compatible
 - XFCE compatible
-- SVG based scalable icons
-- Minimal and consistent appearance
-- Pars Linux visual identity
+- Consistent visual language
+- Pars Linux branding
 
 ## Included Icons
 
-### Core User Folders
+### Core Folders
 
 - Home
 - Downloads
@@ -28,7 +28,7 @@ Pars Icon Theme v1 is a clean, modern and minimal icon collection designed for G
 - Projects
 - System
 
-### Advanced User Folders
+### Advanced Folders
 
 - Code
 - Packages
@@ -39,40 +39,38 @@ Pars Icon Theme v1 is a clean, modern and minimal icon collection designed for G
 - Cloud
 - Workspace
 
-### Pars Linux Specific Folders
+### Pars Linux Folders
 
 - Public
 - Pars Tools
 
+## Total Icons
+
+```text
+20 SVG Folder Icons
+```
+
 ## Directory Structure
 
 ```text
-Pars_Icon_Theme_v1/
+Pars_Icon_Theme/
+├── AUTHORS
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
 ├── index.theme
 └── scalable/
     └── places/
-        ├── Temel_Kullanıcı/
-        ├── Geliştirici_ve_Gelişmiş_Kullanıcı/
-        └── Pars_Linuxa_Özel/
 ```
 
-## Design Language
+## Color Palette
 
-Pars Icon Theme is based on four principles:
-
-- Simplicity
-- Consistency
-- Readability
-- Scalability
-
-### Color Palette
-
-| Color | Hex |
-|---------|---------|
-| Pars Blue | #3B82F6 |
-| Dark Navy | #0F172A |
-| White | #FFFFFF |
-| Light Accent | #DCE7FF |
+```text
+Pars Blue  : #3B82F6
+Dark Navy  : #0F172A
+White      : #FFFFFF
+Light Blue : #DCE7FF
+```
 
 ## Installation
 
@@ -80,68 +78,36 @@ Pars Icon Theme is based on four principles:
 
 ```bash
 mkdir -p ~/.local/share/icons
-cp -r Pars_Icon_Theme_v1 ~/.local/share/icons/
+cp -r Pars_Icon_Theme ~/.local/share/icons/
 ```
 
 ### System Installation
 
 ```bash
-sudo cp -r Pars_Icon_Theme_v1 /usr/share/icons/
-```
-
-## Activation
-
-GNOME Tweaks:
-
-```text
-Appearance
-  └── Icons
-         └── Pars Icon Theme
-```
-
-XFCE:
-
-```text
-Settings
-  └── Appearance
-         └── Icons
-                └── Pars Icon Theme
-```
-
-## Project Status
-
-Current Version:
-
-```text
-v1.0
-```
-
-Icons Included:
-
-```text
-20 Folder Icons
-```
-
-Format:
-
-```text
-SVG
+sudo cp -r Pars_Icon_Theme /usr/share/icons/
 ```
 
 ## License
 
 GPL-3.0-or-later
 
+See the LICENSE file for details.
+
 ## Author
 
-Pars Linux Project
+Can
 
-Built for the Pars Linux ecosystem.
+Founder and Maintainer of Pars Linux.
+
+## Project Status
+
+```text
+Version : 1.0.0
+Status  : Stable
+Icons   : 20
+Format  : SVG
+```
 
 ---
 
 🐆 Fast. Agile. Fierce.
-# Pars-Icon-Theme-v1
-# Pars-Icon-Theme-v1
-# Pars-Icon-Theme-v1
-# Pars-Icon-Theme-v1
