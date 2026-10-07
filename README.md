@@ -144,3 +144,4 @@ Built for the Pars Linux ecosystem.
 # Pars-Icon-Theme-v1
 # Pars-Icon-Theme-v1
 # Pars-Icon-Theme-v1
+# Pars-Icon-Theme-v1
