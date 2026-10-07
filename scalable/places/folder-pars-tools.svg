@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     role="img"
+     aria-label="Pars Linux Tools Folder">
+
+  <!-- Geometrik Pars kafa çerçevesi -->
+  <path
+    d="M16 18
+       L25 14
+       L32 20
+       L39 14
+       L48 18
+       L45 40
+       L32 51
+       L19 40
+       Z"
+    fill="#FFFFFF"
+    stroke="#FFFFFF"
+    stroke-width="2"
+    stroke-linejoin="round"/>
+
+  <!-- Sol yüz alanı -->
+  <polygon
+    points="19,21 29,25 27,39 21,37"
+    fill="#0F172A"/>
+
+  <!-- Sağ yüz alanı -->
+  <polygon
+    points="45,21 35,25 37,39 43,37"
+    fill="#0F172A"/>
+
+  <!-- Orta yüz alanı -->
+  <polygon
+    points="32,22 37,39 32,47 27,39"
+    fill="#DCE7FF"/>
+
+  <!-- Pars gözleri -->
+  <path
+    d="M22 28 L29 27 L27 32 L23 31 Z"
+    fill="#3B82F6"/>
+
+  <path
+    d="M42 28 L35 27 L37 32 L41 31 Z"
+    fill="#3B82F6"/>
+
+  <!-- Burun -->
+  <polygon
+    points="32,38 35,41 32,44 29,41"
+    fill="#0F172A"/>
+
+  <!-- Araç simgesi için merkez dişlisi -->
+  <circle
+    cx="46"
+    cy="45"
+    r="8"
+    fill="#3B82F6"
+    stroke="#FFFFFF"
+    stroke-width="2"/>
+
+  <!-- Dişli merkez boşluğu -->
+  <polygon
+    points="46,41 49,43 49,47 46,49 43,47 43,43"
+    fill="#0F172A"/>
+
+  <!-- Dişli çıkıntıları -->
+  <path
+    d="M46 35 V38
+       M46 52 V55
+       M36 45 H39
+       M53 45 H56
+       M39 38 L41 40
+       M51 50 L53 52
+       M53 38 L51 40
+       M41 50 L39 52"
+    fill="none"
+    stroke="#3B82F6"
+    stroke-width="3"
+    stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Pars Icon Theme
+Comment=Pars Linux Official Icon Theme v1
+Inherits=Adwaita
+Example=folder-home
+Directories=scalable/places
+
+[scalable/places]
+Size=128
+MinSize=16
+MaxSize=512
+Context=Places
+Type=Scalable
+`

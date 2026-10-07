@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Paket Üst Kapak -->
+  <polygon
+    points="20,20 32,14 44,20 32,26"
+    fill="#FFFFFF"/>
+
+  <!-- Sol Yüz -->
+  <polygon
+    points="20,20 20,40 32,48 32,26"
+    fill="#DCE7FF"/>
+
+  <!-- Sağ Yüz -->
+  <polygon
+    points="44,20 44,40 32,48 32,26"
+    fill="#FFFFFF"/>
+
+  <!-- Pars Mavisi Vurgu -->
+  <polygon
+    points="34,30 42,34 42,40 34,44"
+    fill="#3B82F6"/>
+
+  <!-- Altıgen Amblem -->
+  <polygon
+    points="32,30 35,32 35,36 32,38 29,36 29,32"
+    fill="#0F172A"/>
+
+</svg>

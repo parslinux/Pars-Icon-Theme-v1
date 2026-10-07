@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Dış Yedekleme Oku -->
+  <path
+    d="M32 16
+       A16 16 0 1 1 18 24"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="4"
+    stroke-linecap="round"/>
+
+  <!-- Ok Ucu -->
+  <polygon
+    points="16,20 24,20 20,28"
+    fill="#FFFFFF"/>
+
+  <!-- Pars Altıgeni -->
+  <polygon
+    points="32,24
+            40,28
+            40,36
+            32,40
+            24,36
+            24,28"
+    fill="#0F172A"/>
+
+  <!-- Mavi Merkez -->
+  <circle
+    cx="32"
+    cy="32"
+    r="3"
+    fill="#3B82F6"/>
+
+</svg>

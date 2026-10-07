@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Ev Gövdesi -->
+  <path d="
+    M16 30
+    L32 16
+    L48 30
+    V48
+    H16
+    Z"
+    fill="#FFFFFF"/>
+
+  <!-- Kapı -->
+  <rect
+    x="28"
+    y="36"
+    width="8"
+    height="12"
+    fill="#0F172A"/>
+
+  <!-- Pars Mavisi Pencere -->
+  <rect
+    x="22"
+    y="30"
+    width="8"
+    height="8"
+    rx="1"
+    fill="#3B82F6"/>
+
+  <!-- İkinci Pencere -->
+  <rect
+    x="34"
+    y="30"
+    width="8"
+    height="8"
+    rx="1"
+    fill="#3B82F6"/>
+
+</svg>

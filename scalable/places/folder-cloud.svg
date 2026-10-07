@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     role="img"
+     aria-label="Pars Linux Cloud Folder">
+
+  <!-- Bulut gövdesi -->
+  <path
+    d="M20 46
+       C13.4 46 8 40.6 8 34
+       C8 27.8 12.7 22.7 18.7 22.1
+       C21.2 16.1 26.2 12 32 12
+       C39.3 12 45.3 18.2 46 26
+       C51.6 26.5 56 30.8 56 36
+       C56 41.5 51.5 46 46 46
+       Z"
+    fill="#FFFFFF"/>
+
+  <!-- Pars altıgeni -->
+  <polygon
+    points="32,23 40,27.5 40,36.5 32,41 24,36.5 24,27.5"
+    fill="#0F172A"/>
+
+  <!-- Bulut eşitleme çizgisi -->
+  <path
+    d="M27 30
+       C29 27.8 33 27.4 35.5 29.5"
+    fill="none"
+    stroke="#3B82F6"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
+
+  <!-- Üst ok ucu -->
+  <path
+    d="M34 26.5 L36.5 29.5 L33 30"
+    fill="none"
+    stroke="#3B82F6"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Alt eşitleme çizgisi -->
+  <path
+    d="M37 34
+       C35 36.2 31 36.6 28.5 34.5"
+    fill="none"
+    stroke="#3B82F6"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
+
+  <!-- Alt ok ucu -->
+  <path
+    d="M30 37.5 L27.5 34.5 L31 34"
+    fill="none"
+    stroke="#3B82F6"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+</svg>

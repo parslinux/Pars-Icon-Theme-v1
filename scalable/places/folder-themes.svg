@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Tema Paleti Gövdesi -->
+  <path
+    d="M32 14
+       C20 14 12 24 12 34
+       C12 44 20 50 30 50
+       C34 50 36 48 36 44
+       C36 42 38 40 40 40
+       H44
+       C52 40 56 34 56 28
+       C56 20 46 14 32 14 Z"
+    fill="#FFFFFF"/>
+
+  <!-- Pars Blue -->
+  <circle cx="22" cy="30" r="3" fill="#3B82F6"/>
+
+  <!-- Lacivert -->
+  <circle cx="30" cy="24" r="3" fill="#0F172A"/>
+
+  <!-- Açık Mavi -->
+  <circle cx="40" cy="28" r="3" fill="#60A5FA"/>
+
+  <!-- Altıgen Vurgu -->
+  <polygon
+    points="32,36 36,38 36,42 32,44 28,42 28,38"
+    fill="#3B82F6"/>
+
+</svg>

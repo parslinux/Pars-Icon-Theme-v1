@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Dış Çerçeve -->
+  <polygon
+    points="32,12 48,21 48,43 32,52 16,43 16,21"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="3"
+    stroke-linejoin="round"/>
+
+  <!-- İç Dolgu -->
+  <polygon
+    points="32,17 43,23 43,41 32,47 21,41 21,23"
+    fill="#0F172A"/>
+
+  <!-- Pars Mavisi Vurgu -->
+  <polygon
+    points="43,41 32,47 32,35 43,29"
+    fill="#3B82F6"/>
+
+</svg>

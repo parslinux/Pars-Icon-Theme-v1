@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Pars Gözleri -->
+  <polygon points="24,18 28,16 26,22" fill="#3B82F6"/>
+  <polygon points="40,16 44,18 38,22" fill="#3B82F6"/>
+
+  <!-- Gamepad Gövdesi -->
+  <path d="
+    M22 28
+    C18 28 16 31 16 36
+    C16 42 19 46 23 46
+    C26 46 28 43 32 43
+    C36 43 38 46 41 46
+    C45 46 48 42 48 36
+    C48 31 46 28 42 28
+    Z"
+    fill="#FFFFFF"/>
+
+  <!-- D-Pad -->
+  <rect x="22" y="34" width="8" height="2" fill="#0F172A"/>
+  <rect x="25" y="31" width="2" height="8" fill="#0F172A"/>
+
+  <!-- A/B Tuşları -->
+  <circle cx="39" cy="34" r="2" fill="#0F172A"/>
+  <circle cx="43" cy="31" r="2" fill="#0F172A"/>
+
+  <!-- Analog Noktaları -->
+  <circle cx="28" cy="40" r="1.5" fill="#0F172A"/>
+  <circle cx="36" cy="40" r="1.5" fill="#0F172A"/>
+
+</svg>
