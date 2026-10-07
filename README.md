@@ -143,3 +143,4 @@ Built for the Pars Linux ecosystem.
 🐆 Fast. Agile. Fierce.
 # Pars-Icon-Theme-v1
 # Pars-Icon-Theme-v1
+# Pars-Icon-Theme-v1
